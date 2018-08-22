@@ -4,7 +4,7 @@
 
 
 
-### Project Configure :
+#### Project Configure :
 
 1. Update config.tcl file with proper project parametes
 
@@ -16,7 +16,7 @@
 
 
 
-### Prerequisite :
+#### Prerequisite :
 
 1. Computer may have Linux or Windows. However for linux Msys2 must be installed
 
@@ -24,7 +24,7 @@
 
 
 
-### Compile :
+#### Compile :
 
 1. For windows, update env.bat file with proper Vivado version and msys2 path
 
